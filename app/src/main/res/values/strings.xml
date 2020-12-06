@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leaf Disease Detector</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image is set for Initial Test...</string>
+    <string name="defaultImage1">Medication Process will be displayed after detection...</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="defaultImage2">Default Value</string>
+</resources>
